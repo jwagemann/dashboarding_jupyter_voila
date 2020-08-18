@@ -1,5 +1,5 @@
 # Dashboarding with Jupyter and Voilà
-This repository hosts the Jupyter notebooks developed for the lecture on 'Dashboarding with Jupyter and Voila' during the OpenGeoHub Summer School 2020.
+This repository hosts the Jupyter notebooks developed for the tutorial on 'Dashboarding with Jupyter and Voilà' during the [OpenGeoHub Summer School 2020](https://opengeohub.org/summer_school_2020).
 
 
 ## What is this tutorial about?
