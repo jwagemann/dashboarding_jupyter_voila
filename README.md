@@ -14,4 +14,4 @@ This tutorial has the following outline:
 * [03 - Introduction to Voilà dashboards](./03_voila_dashboards.ipynb)
 
 <hr>
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img style="left" alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"/></img></a> &copy; 2020 | Julia Wagemann
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img style="right" alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"/></img></a>
